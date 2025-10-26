@@ -1,0 +1,180 @@
+@font-face {
+    font-family: 'hakobi';
+    src: url(behance-656d15caabd12.ttf);
+}
+
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    position: relative;
+    background-image: url(Kuvat/Nimetön-2\ \(3\).png);  
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#todoList, #todoList li {
+  font-family: sans-serif;
+  font-size: 20px;
+}
+
+.btn {
+    color: white;
+    font-size: 1.4rem;
+    padding: 0.7rem 1rem;
+    border-radius: 2rem;
+    background-color: blue;
+    border: none;
+    position: absolute;
+    right: 0.6rem;
+    bottom: 0.5rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 0;
+}
+
+.todo {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    border-radius: 3rem;
+    background: white;
+    padding: 3rem;
+    height: 50%;
+    width: 60%;
+    max-width: 30rem;
+}
+
+h1 {
+    font-family: 'hakobi';
+    font-size: 3.5rem;
+    color: blue;
+    text-align: center;
+    margin: 0;
+    margin-bottom: 20px;
+   
+}
+
+.input {
+    position: relative;
+    display: flex;
+}
+
+.input-field {
+    width: 100%;
+    background-color: darkorange;
+    border: 0.2rem solid blue;
+    border-radius: 2rem;
+    padding: 1.25rem;
+    font-size: 1rem;
+
+}
+
+input[type="text"]::placeholder {
+    color: rgba(0, 0, 0, 0.525);
+    
+    
+}
+
+.todo-container{
+    display: flex;
+    gap: 1rem;
+
+    
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+    overflow-y: scroll;
+}
+
+li {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    padding: 1.3rem;
+}
+
+#todoList p {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+
+#todo.list .disabled {
+    color: gray;
+}
+
+.disabled {
+    display: flex;
+    text-decoration: line-through;
+
+}
+
+input[type="checkbox"] {
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    cursor: pointer;
+}
+
+input[type="checkbox"]::before {
+  content: "";                 
+  display: inline-block;
+  width: 2rem;
+  height: 2rem;
+  border: 0.12rem solid blue; 
+  border-radius: 50%;
+  background: transparent;
+  line-height: 2rem;
+  text-align: center;
+}
+
+
+input[type="checkbox"]:checked::before {
+  content: "\2713";            
+  color: white;
+  background-color: blue;
+  border-color: blue;
+}
+
+
+.counter-container {
+    font-family: sans-serif;
+    height: 3rem;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    padding: 20px;
+    font-size: 1.5rem;
+    
+
+}
+
+.scroll {
+    height: 15rem;
+    scrollbar-width: thin;
+
+}
+
+.scroll::-webkit-scrollbar-thumb {
+    background-color: blue;
+    border-radius: 0.5rem;
+}
+
+.scroll::-webkit-scrollbar-track {
+    display: none;
+}
