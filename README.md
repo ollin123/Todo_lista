@@ -2,7 +2,7 @@
 Ollin To-do lista, Olli Niemi
 
 ## Verkkolinkit:
-Pääset julkaistuun sovellukseen käsiksi osoitteessa ollitodo.netlify.app
+Pääset julkaistuun sovellukseen käsiksi osoitteessa (ollitodo.netlify.app)
 
 
 ## Työn jakautuminen 
@@ -56,8 +56,8 @@ Käytin seuraavia teknologioita:
 - Avaa index.html tiedosto selaimessa
 
 ## Kiitokset
-- [How To Become Developer YouTube-kanava] https://www.youtube.com/watch?v=3OqWCGVaOkA
-- [w3Shools] https://www.w3schools.com
+- [How To Become Developer YouTube-kanava] (https://www.youtube.com/watch?v=3OqWCGVaOkA)
+- [w3Shools] (https://www.w3schools.com)
 - Käytin ChatGpt koodauksen aikana esimerkiksi:
       - Etsimään kirjoitusvirheitä koodista.
       - Koodin korjauksessa, jos se meni rikki jollain tavalla.
