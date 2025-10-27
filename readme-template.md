@@ -66,4 +66,4 @@ Käytin seuraavia teknologioita:
 
 
 ## Lisenssi
-MIT-lisenssi @ [Olli Niemi]()
+MIT-lisenssi @ [Olli Niemi](https://github.com/ollin123/Todo_lista/blob/main/LICENSE)
