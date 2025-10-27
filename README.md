@@ -2,7 +2,7 @@
 Ollin To-do lista, Olli Niemi
 
 ## Verkkolinkit:
-Pääset julkaistuun sovellukseen käsiksi osoitteessa (ollitodo.netlify.app)
+Pääset julkaistuun sovellukseen käsiksi osoitteessa (https://ollitodo.netlify.app/)
 
 
 ## Työn jakautuminen 
