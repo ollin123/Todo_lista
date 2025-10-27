@@ -66,6 +66,4 @@ Käytin seuraavia teknologioita:
 
 
 ## Lisenssi
-Valitse projektille lisenssi seuraamalla tätä [opasta](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository).
-
-Esimerkki: MIT-lisenssi @ [tekijä](author.com)
+MIT-lisenssi @ [Olli Niemi]()
