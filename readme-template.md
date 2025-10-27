@@ -1,24 +1,24 @@
 # Projektin nimi ja tekijät
-Projektin nimi ja kaikki mukana olevat tekijät. 
+Ollin To-do lista, Olli Niemi
 
 ## Verkkolinkit:
-Pääset julkaistuun sovellukseen käsiksi osoitteessa [google.com](https://google.com)
-Linkki projektin videoesittelyyn [google.com](https://google.com)
+Pääset julkaistuun sovellukseen käsiksi osoitteessa ollitodo.netlify.app
+
 
 ## Työn jakautuminen 
-Miten työmäärä jaettiin? Kuka teki mitä? Miten yhteistyö sujui?
+Työ jakautui noin kuudelle päivälle.
 
 ## Oma arvio työstä ja oman osaamisen kehittymisestä
-Mielestäni onnistuin...
-Parantamista olisi...
-Sovelluksesta jäi puuttumaan...
-Koen, että olen oppinut...
-Epäselväksi jäi...
-Antaisin itselleni pisteitä seuraavasti: xx/yy p
+Mielestäni onnistuin sovelluksen ulkoasussa
+Parantamista olisi sovelluksen toiminnallisuudessa, osa vaadittavista toiminnallisuuksista jäi puuttumaan.
+Sovelluksesta jäi puuttumaan:
+- Virheellisen sisällön korostusväri. Sain ilmoituksen toimimaan alerttina.
+Koen, että olen oppinut enemmän html ja css kieliä, kun niitä pääsi kertaamaan tässä hyvin tässä projektissa. Koen myös, että ymmärrän enemmän javascriptistä.
+Epäselväksi jäi eventListenereiden toiminta.
+Antaisin itselleni pisteitä seuraavasti: 4/10 p
 
 ## Palaute opettajalle kurssista sekä itse opetuksesta tähän saakka
-Kurssi sekä lähiopetus ovat tuntuneet... 
-Oppimistani tukisi jos...
+Kiva kurssi. Mukava opettaja!
 
 
 ## Sisällysluettelo:
@@ -36,7 +36,7 @@ Oppimistani tukisi jos...
 [Projektin nimi] on sovellus, joka ...
 
 ## Tunnetut virheet/bugit
-Kerro jos tiedät sovelluksessa olevan jotain, mikä ei toimi tai toimii heikosti
+Ei tiedossa
 
 ## Kuvakaappaukset
 Lisää tähän vähintään yksi kuvakaappaus toimivasta sovelluksesta  
