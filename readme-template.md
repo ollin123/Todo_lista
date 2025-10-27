@@ -33,32 +33,37 @@ Kiva kurssi. Mukava opettaja!
 - [Lisenssi](#lisenssi)
 
 ## Tietoja sovelluksesta
-[Projektin nimi] on sovellus, joka ...
+To-do lista kokoaa siihen kirjoitetut asiat listaksi. Asian tekemisen jälkeen sen voi merkata tehdyksi ja nappia painamalla kaikki todot poistetaan
 
 ## Tunnetut virheet/bugit
 Ei tiedossa
 
 ## Kuvakaappaukset
 Lisää tähän vähintään yksi kuvakaappaus toimivasta sovelluksesta  
-`![Kirjoittaminen](https://unsplash.com/photos/VBPzRgd7gfc)`
 
-Kuva: [Kelly Sikkema](https://unsplash.com/@kellysikkema)
+Kuva: [Sovelluksen toiminta](https://imgur.com/a/8FlvnrM)
+
 
 ## Teknologiat
 Kuvaa, mitä teknologioita käytettiin ja mikä oli niiden rooli projektissasi.  
-Käytin seuraavia teknologioita: `html`, `css`, ...
+Käytin seuraavia teknologioita:
+- html sovelluksen rakentamiseen
+- css sovelluksen tyylitykseen
+- js sovelluksen toiminnallisuuteen
 
 ## Asennus
-Kirjoita lyhyet ohjeet sovelluksen käynnistämiseen ja käyttöön. Esimerkiksi:  
-- lataa kaikki tiedostot ja avaa index.html selaimessasi  
-- lataa tai kloonaa repositorio  
-- suorita `npm install`  
-- ...
+- Lataa kaikki tiedostot
+- Avaa index.html tiedosto selaimessa
 
 ## Kiitokset
-Lista lähteistä ja esimerkeistä, joita käytit projektin aikana. Mainitse myös, jos käytit ChatGPT:tä tai muita tekoälytyökaluja koodauksen aikana ja kerro, miten ne auttoivat sinua.  
-- [John Doe](johndoe.com)  
-- [Beginners guide to BEM](link-goes-here.com)  
+- [How To Become Developer YouTube-kanava] https://www.youtube.com/watch?v=3OqWCGVaOkA
+- [w3Shools] https://www.w3schools.com
+- Käytin ChatGpt koodauksen aikana esimerkiksi:
+      - Etsimään kirjoitusvirheitä koodista.
+      - Koodin korjauksessa, jos se meni rikki jollain tavalla.
+      - Apuja sovelluksen tyylityksessä.
+
+
 
 ## Lisenssi
 Valitse projektille lisenssi seuraamalla tätä [opasta](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository).
